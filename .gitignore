@@ -1,0 +1,7 @@
+*.db
+*.db-wal
+*.db-shm
+.devdb
+*.log
+__pycache__/
+.DS_Store
